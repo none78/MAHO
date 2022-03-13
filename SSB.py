@@ -1,0 +1,2 @@
+import SSB
+SSB.qaiser()
